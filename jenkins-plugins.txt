@@ -1,0 +1,9 @@
+dependency-check-jenkins-plugin:latest
+locale:latest
+warnings-ng:latest
+zap:latest
+dependency-track:latest
+git:latest
+workflow-aggregator:latest
+pipeline-stage-view:latest
+htmlpublisher:latest
